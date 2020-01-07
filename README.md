@@ -6,7 +6,7 @@ for making this project more statable I used SpringBoot Dependency Along with My
 
 We just need to mention DataBase Name And Table Name in the Command line argument for a run this project.
 
-Example - java -jar target/demo-0.0.1-SNAPSHOT.jar DB_name Table_name.
+Example:  java -jar target/demo-0.0.1-SNAPSHOT.jar DB_name Table_name.
 
 Task Details : - 
 
